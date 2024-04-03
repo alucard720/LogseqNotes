@@ -1,0 +1,36 @@
+- [dbo].[EstadosCiviles]
+- [dbo].[Instituciones]
+- [dbo].[FormacionesAcademicas]
+	- CodEspecialidad
+	- CodMaestria
+	- CodDoctorado
+- [dbo].[Maestrias]
+- [dbo].[Candidatos]
+	- CandidatosDiscapidad
+	- CandidatosCheckListDocumentos
+	- Experiencias
+	- FechaEvaluacionCandidato
+	- HistoricoInteraciones
+	- Obervaciones
+	- OtrosEstudios
+	- ValidacionDocumentos
+- [dbo].[Postulacion]
+	- CodPeriodo
+- [dbo].[Nacionalidades]
+- [dbo].[Puestos]
+	- CodPeriodo
+- [dbo].[Sectores]
+- [dbo].[TiposEstudios]
+	- CodPeriodo
+- [dbo].[TiposExperiencia]
+- [dbo].[AreasFormacion]
+- [dbo].[Regionales]
+	- Codigo: se le designo este campo como primary key.
+- [dbo].[Distritos]
+	- IdRegional y Codigo: se creo una primary key compuesta con estos campos.
+- [dbo].[Maestrias]
+- [dbo].[Doctorados]
+- [dbo].[Discapacidades]
+- [dbo].[Modalidad]
+- [dbo].[CandidatoPostulacion]
+	- CodCandidato
