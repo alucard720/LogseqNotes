@@ -1,0 +1,5 @@
+- Este es el diagrama modificado donde se corrigen la falta de relaciones para que las tablas sean más eficientes y fácil de trabajar para los programadores presentes y futuros.
+-
+- Es un proceso almacenado físicamente en una [base de datos](https://es.wikipedia.org/wiki/Base_de_datos). Su implementación varía de un [gestor de bases de datos](https://es.wikipedia.org/wiki/DBMS) a otro. **La ventaja de un procedimiento almacenado** es que, al ser ejecutado, en respuesta a una petición de usuario, es ejecutado directamente en el motor de bases de datos, el cual usualmente corre en un servidor separado.
+-
+- Aquí se revisaron los procedimientos almacenados de esta base de datos y se agregaron 3 más que se necesitan para eficientizar la implementación del aplicativo de concurso.
