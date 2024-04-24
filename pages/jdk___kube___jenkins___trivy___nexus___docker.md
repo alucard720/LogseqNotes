@@ -1,8 +1,12 @@
 ### plugins
 	- docker
 	- docker pipeline
-	- sonaqube scanner
+	- docker-build-step
+	- sonarqube scanner
 	- nexus artifact uploader
 	- owasp depency-checker
 	- eclipse temurin installer
+	- cloudbees docker build and publish
+- ### Tools
+	- jdk17
 	-
