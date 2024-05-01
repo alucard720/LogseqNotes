@@ -1,4 +1,4 @@
-# Setup K8-Cluster using kubeadm
+# Setup docker.io & Kubernetes
 - ### 1. Update System Packages [On Master & Worker Node]
   [](https://github.com/jaiswaladi246/DevOps_Shack_Ultimate_Pipeline_12_march/blob/main/PHASE-1/2.%20K8-Setup.md#1-update-system-packages-on-master--worker-node)
   
@@ -11,6 +11,9 @@
   ```
   sudo apt install docker.io -y
   sudo chmod 666 /var/run/docker.sock
+  sudo groupadd docker
+  sudo usermod -aG docker $USER
+  newgrp docker
   ```
 - ### 3. Install Required Dependencies for Kubernetes[On Master & Worker Node]
   [](https://github.com/jaiswaladi246/DevOps_Shack_Ultimate_Pipeline_12_march/blob/main/PHASE-1/2.%20K8-Setup.md#3-install-required-dependencies-for-kuberneteson-master--worker-node)
