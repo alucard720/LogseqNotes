@@ -3,8 +3,7 @@ Son bloques de código que usan la redirección para alimentar un conjunto de l�
 programa externo.
 Se usa fundamentalmente para insertar ficheros externos o de configuración en el propio del script
 <<IDENTIFICADOR HEREDOC
-IDENTIF CADOR
-_ HEREDOC
+IDENTIF CADOR_ HEREDOC
 Ventajas: se puede transmitir grandes cadenas de una forma sencilla, respetando la identación, espacios
 saltos de línea, caracteres especiales, etc.
 - ![Grafica Comandos habituales P2](/home/mubuntu/Downloads/comandos habitualesP2.png)
