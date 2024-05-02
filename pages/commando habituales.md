@@ -41,3 +41,13 @@
   • du -sh *: muestra el espacio ocupado de cada fichero.
   • whoami: muestra el nombre del usuario.
 -
+- ## Redirección
+  Se trata de gestionar la redirección de la salida de un comando.
+  • $ 1s -la › listado. txt: el contenido se escribe en el fichero listado. txt, sobrescribiendo
+  cualquier contenido anterior.
+  • $ 1s -la »› listado. txt: el contenido se escribe en el fichero listado. txt, añadiendo el
+  contenido al final del contenido actual del fichero.
+  • $ cat sshd_config | grep -v "#" | sort | uniq: la tubería o pipe utiliza el resultado de un
+  comando como entrada del siguiente. El ejemplo muestra el contenido del fichero de configuración del
+  servidor SSH, pero muestra solo las líneas no comentadas y ordenadas alfabéticamente.
+  • $ cat ‹ listado. txt: lee el fichero input. txt y lo entrega por la entrada estándar a cat.
