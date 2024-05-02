@@ -1,0 +1,43 @@
+## Comandos de directorio
+• pwd: muestra el camino completo del directorio actual.
+• cd: cambia de directorio.
+• cd ~: lleva a la carpeta home del usuario.
+• cd -: lleva a la ultima ruta.
+• cd ..: cambia al directorio padre del directorio actual.
+- ## Listado de ficheros
+  • 1s: listado de ficheros.
+  • 1s -al: lista ficheros, carpetas e información.
+  • 1s -ar: lista de forma recursiva.
+  1s -aR | more: lista de forma recursiva, usando una canalización para mostrarlo por pantalla.
+  1s -aR › resultado. txt: similar a la anterior, pero vuelca el resultado de la salida a un archivo, en
+  vez de mostrarlo por pantalla.
+  • 1s *.htm: enumera todos los archivos terminados en .htm.
+  • 1s -al dir/subdir/: muestra un listado de los ficheros en ese directorio.
+- ## Crear, modificar y borrar ficheros y carpetas
+  • touch /home/usr/html/index.htm: crea el fichero index. htm sin contenido.
+  rm file. txt: borra file.txt.
+  rm -rf dir/: borra el directorio de forma recursiva y sin confirmación.
+  • mkdir carpeta: crea un directorio con el nombre carpeta.
+  • rmdir carpeta: borra el directorio llamado carpeta.
+  Archivos comprimidos
+  • zip arch.zip /home/usr/public/dir: comprime el directorio y su contenido en el fichero arch. zip.
+  • unzip arch. zip: descomprime arch. zip.
+  • unzip -v arch. zip: visualiza el contenido de arch.zip.
+  • tar xvzf package. tgz: descomprime el fichero package. tgz.
+- ## Visualización de ficheros
+  • less fichero. log: muestra el contenido del fichero solo en modo lectura, permite búsquedas, ir al
+  principio y al final del fichero, pasar de página, etc.
+  • cat fichero. log: vuelca el contenido completo del fichero en la pantalla.
+  tail fichero. log: muestra las últimas diez líneas del fichero.
+  tail -5 fichero. log: muestra las últimas cinco líneas del fichero.
+  • tail -f fichero. 1og: muestra las últimas diez líneas del fichero y se engancha al fichero mostrando
+  las líneas nuevas que aparezcan en este. Es muy útil para mostrar un fichero de 10g, según se actualiza.
+  * head fichero. 1og: muestras las diez primeras líneas del fichero.
+-
+- ## Otros comandos
+  • cp -а /home/usr/origen/* /home/usr/destino/: copia todos los contenidos de un directorio a
+  otro, manteniendo sus permisos.
+  • du -sh: visualiza el espacio total ocupado por la carpeta actual.
+  • du -sh *: muestra el espacio ocupado de cada fichero.
+  • whoami: muestra el nombre del usuario.
+-
