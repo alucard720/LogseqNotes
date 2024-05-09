@@ -1,0 +1,30 @@
+- NodeJS
+  Es un entorno de ejecución de JavaScript multiplaforma y de código libre. Aunque JavaScript nació
+  como un lenguaje de scripting para navegadores web, NodeJS ejecuta el código fuera del navegador.
+  NPM (nearly picked makefiles)
+  Es un gestor de paquetes JavaScript por defecto de NodeJS. Además de una herramienta de línea de
+  comandos pensada para gestionar las dependencias de las aplicaciones de NodeJS, el ecosistema de
+  NPM tiene a su disposición un repositorio público de paquetes, similar en su naturaleza a los
+  repositorios de apt-get 0 yum.
+- Parámetros
+  Al contrario de los otros scripts, este
+  no acepta parámetros por la línea
+  de comandos, sino que espera que
+  el usuario los haya fijado como
+  variables de entorno. Por tanto, no
+  hay «parseo» de comandos, pero sí
+  comprobación de estos.
+- # verificacion de parametros
+  if IL -z $<APP_ENTRY.
+  _POINT} 11
+  -Z ${CLONE_URL} 1] ;
+  then
+  echo "${AYUDA}"
+  exit 1
+  fi
+  if [[ -z ${BRANCH} ]]
+  then
+  BRANCH=master
+  fi
+  -Z ${APP.
+  '_FOLDER} ||

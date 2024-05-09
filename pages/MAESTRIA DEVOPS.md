@@ -8,4 +8,9 @@
 - [[Tareas tradicionales]]
 - [[commando habituales]]
 - [[Heredocs]]
+- [[ScriptBash]]
+- [[instalacion mongodb bash]]
+- [[PHP-FPM]]
+- [[NODEJS]]
+-
 -
