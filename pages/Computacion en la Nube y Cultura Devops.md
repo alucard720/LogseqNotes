@@ -1,2 +1,5 @@
 - [[Que es Devops]]
 - [[Principios Devops]]
+- [[Metodologia y estrategias DevOps]]
+- [[Capacidades DevOps]]
+-

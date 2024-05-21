@@ -5,3 +5,13 @@
   • Terminado significa que está en manos del cliente.
   • Fomentar la mejora continua:
   • Todos podemos opinar y mejorar los procesos.
+- ### • Fomentar la automatización:
+  • Automatizar permite dedicarnos a lo importante.
+-
+- ### • Dar prioridad a las necesidades del cliente:
+  • Release Value.
+- ### • Aceptar el fracaso y aprender de él:
+  • Try fast Fail Fast.
+  • Formar equipos multifuncionales:
+  • Feature Teams.
+-
