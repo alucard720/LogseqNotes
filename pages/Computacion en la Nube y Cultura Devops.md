@@ -3,3 +3,4 @@
 - [[Metodologia y estrategias DevOps]]
 - [[Capacidades DevOps]]
 - [[Mitos de Devops]]
+- [[Colaboracion en DevOps]]
