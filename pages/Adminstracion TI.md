@@ -1,0 +1,19 @@
+- Las metodologías y estrategias que facilitan la implantación de DevOps incluyen:
+  • Considera a la virtualización como un servicio de negocio. Al tener esta
+  perspectiva, estarás motivado bajo la premisa de que la virtualización forma
+  parte de un esfuerzo conjunto de la organización para cumplir con los
+  requisitos de negocio.
+  • Monitoriza los servicios en las infraestructuras físicas y de virtualización. Los
+  complejos procesos empresariales actuales están controlados por múltiples
+  aplicaciones, que pueden ubicarse en infraestructuras físicas o virtuales.
+  • Virtualiza los procesos de gestión de los servicios. Las soluciones de gestión
+  proporcionan procesos como la gestión de incidentes y fallos.
+  • Integra la virtualización en la gestión de calidad. Las áreas que se benefician
+  en mayor medida de la virtualización son aquellas relacionadas con las
+  pruebas y la calidad, ya que se pueden eliminar las intervenciones manuales.
+-
+- #### Virtualiza el ciclo completo
+- No pierdas de vista los requisitos de negocio.
+  • Asegúrate de que la tecnología que elijas es adecuada para cada tipo de usuario.
+  • Determina cuáles son tus necesidades de almacenamiento.
+  • No olvides ser coherente en tus esfuerzos de virtualización de cliente.

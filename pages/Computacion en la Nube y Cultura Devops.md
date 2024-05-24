@@ -4,3 +4,5 @@
 - [[Capacidades DevOps]]
 - [[Mitos de Devops]]
 - [[Colaboracion en DevOps]]
+- [[Herramienta que Favorecen la Colaboracion]]
+- [[Factores que pueden acelerar la Adopcion Devops]]

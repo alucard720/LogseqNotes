@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2020110908.03//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:715328@campusvirtual.mexico.unir.net
+SUMMARY:Microtest 1.1 abre
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T120407Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240520T060000Z
+DTEND:20240520T060000Z
+CATEGORIES:27052-27056|25079|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:715655@campusvirtual.mexico.unir.net
+SUMMARY:Microtest 1.1 abre
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T125207Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240520T060000Z
+DTEND:20240520T060000Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:715661@campusvirtual.mexico.unir.net
+SUMMARY:Microtest 1.2 abre
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T125207Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240520T060000Z
+DTEND:20240520T060000Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:762967@campusvirtual.mexico.unir.net
+SUMMARY:Administración de Sistemas para la Cloud (Administración de Sistema
+	s en la Nube)
+	
+DESCRIPTION:IMPARTE: PEDRO DAVID ARREDONDO RAMOS\nTIPO DE SESIÓN: CLASE (60
+	MIN.)\nTEMA:\n\nA la hora señalada\, podrás acceder a la sesión a través de
+	l apartado: Clases en directo [1]\n\nLinks:\n------\n[1] https://campusvirt
+	ual.mexico.unir.net/mod/lti/view.php?id=1772668\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240513T175752Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240522T030000Z
+DTEND:20240522T040000Z
+CATEGORIES:27052-27056|25076|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:760768@campusvirtual.mexico.unir.net
+SUMMARY:Cloud Computing\, DevOps y DevOps Culture (Computación en la Nube y
+	 Cultura DevOps)
+	
+DESCRIPTION:IMPARTE: JUAN ANTONIO CRUZ MANDUJANO\nTIPO DE SESIÓN: CLASE (60
+	MIN.)\nTEMA:\n\nA la hora señalada\, podrás acceder a la sesión a través de
+	l apartado: Clases en directo [1]\n\nLinks:\n------\n[1] https://campusvirt
+	ual.mexico.unir.net/mod/lti/view.php?id=1772026\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240510T202703Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240523T010000Z
+DTEND:20240523T020000Z
+CATEGORIES:27052-27056|25075|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:769105@campusvirtual.mexico.unir.net
+SUMMARY:SecDevOps y Administración de Redes para Cloud (SecDevOps y Adminis
+	tración de Redes en la Nube)
+	
+DESCRIPTION:IMPARTE: SERGIO SENTECAL GUERRERO\nTIPO DE SESIÓN: CLASE (60MIN
+	.)\nTEMA:\n\nA la hora señalada\, podrás acceder a la sesión a través del a
+	partado: Clases en directo [1]\n\nLinks:\n------\n[1] https://campusvirtual
+	.mexico.unir.net/mod/lti/view.php?id=1774231\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240515T175146Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240523T030000Z
+DTEND:20240523T040000Z
+CATEGORIES:27052-27056|25079|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:751756@campusvirtual.mexico.unir.net
+SUMMARY:Aula de información / Curso de introducción
+DESCRIPTION:IMPARTE: ANDREA SALA JIMENEZ\nTIPO DE SESIÓN: CLASE (60MIN.)\nT
+	EMA: SESIÓN DE BIBLIOTECA\n\nA la hora señalada\, podrás acceder a la sesió
+	n a través del apartado: Clases en directo [1]\n\nLinks:\n------\n[1] https
+	://campusvirtual.mexico.unir.net/mod/lti/view.php?id=1774262\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240506T183046Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240523T140000Z
+DTEND:20240523T150000Z
+CATEGORIES:0|4243|4243__4243|27052-27056
+END:VEVENT
+BEGIN:VEVENT
+UID:769174@campusvirtual.mexico.unir.net
+SUMMARY:Herramientas de Automatización de Despliegues
+DESCRIPTION:IMPARTE: BRAULIO TONATIUH PEREZ TORRES\nTIPO DE SESIÓN: CLASE (
+	60MIN.)\nTEMA:\n\nA la hora señalada\, podrás acceder a la sesión a través 
+	del apartado: Clases en directo [1]\n\nLinks:\n------\n[1] https://campusvi
+	rtual.mexico.unir.net/mod/lti/view.php?id=1773430\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240515T175433Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240524T010000Z
+DTEND:20240524T020000Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683353@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 1: Programación en Bash abre
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1892602/mod_quiz/
+	intro/madeo02_act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T150903Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240527T060000Z
+DTEND:20240527T060000Z
+CATEGORIES:27052-27056|25076|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683347@campusvirtual.mexico.unir.net
+SUMMARY:Actividad: Planificación de un DevOps Dojo cierra
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1891954/mod_quiz/
+	intro/madeo01act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T174220Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240528T055900Z
+DTEND:20240528T055900Z
+CATEGORIES:27052-27056|25075|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:790669@campusvirtual.mexico.unir.net
+SUMMARY:Administración de Sistemas para la Cloud (Administración de Sistema
+	s en la Nube)
+	
+DESCRIPTION:IMPARTE: PEDRO DAVID ARREDONDO RAMOS\nTIPO DE SESIÓN: CLASE (60
+	MIN.)\nTEMA:\n\nA la hora señalada\, podrás acceder a la sesión a través de
+	l apartado: Clases en directo [1]\n\nLinks:\n------\n[1] https://campusvirt
+	ual.mexico.unir.net/mod/lti/view.php?id=1772668\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240521T152849Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240529T030000Z
+DTEND:20240529T040000Z
+CATEGORIES:27052-27056|25076|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:774752@campusvirtual.mexico.unir.net
+SUMMARY:Cloud Computing\, DevOps y DevOps Culture (Computación en la Nube y
+	 Cultura DevOps)
+	
+DESCRIPTION:IMPARTE: JUAN ANTONIO CRUZ MANDUJANO\nTIPO DE SESIÓN: CLASE (60
+	MIN.)\nTEMA:\n\nA la hora señalada\, podrás acceder a la sesión a través de
+	l apartado: Clases en directo [1]\n\nLinks:\n------\n[1] https://campusvirt
+	ual.mexico.unir.net/mod/lti/view.php?id=1772026\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240516T020739Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240530T010000Z
+DTEND:20240530T020000Z
+CATEGORIES:27052-27056|25075|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683341@campusvirtual.mexico.unir.net
+SUMMARY:Actividad: Soluciones de almacenamiento en nube con Azure abre
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1891957/mod_quiz/
+	intro/madeo01act2.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T174220Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240603T060000Z
+DTEND:20240603T060000Z
+CATEGORIES:27052-27056|25075|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:540500@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 3. Comunicación y feedback cierra
+DESCRIPTION:Test Tema 3. Comunicación y feedback [1]\n\n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333507\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540505@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 1. Inteligencia emocional cierra
+DESCRIPTION:Test Tema 1. Inteligencia emocional [1] \n\n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333501\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540511@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 2 . Liderazgo y competencias directivas cierra
+DESCRIPTION:Test Tema 2 . Liderazgo y competencias directivas [1]\n\n\n\nLi
+	nks:\n------\n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?i
+	d=1333504\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540515@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 4. Gestión y trabajo en equipo cierra
+DESCRIPTION:Test Tema 4. Gestión y trabajo en equipo [1]\n\n\n\nLinks:\n---
+	---\n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333510
+	\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540520@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 5. Gestión del tiempo cierra
+DESCRIPTION:Test Tema 5. Gestión del tiempo [1]\n\n\n\nLinks:\n------\n[1] 
+	https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333513\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540524@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 6. Toma de decisiones cierra
+DESCRIPTION:Test Tema 6. Toma de decisiones [1]\n\n\n\nLinks:\n------\n[1] 
+	https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333516\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540530@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 7. Técnicas de creatividad cierra
+DESCRIPTION:Test Tema 7. Técnicas de creatividad [1]\n\n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333519\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540535@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 8. Seguridad psicológica y gestión del miedo cierra
+DESCRIPTION:Test Tema 8. Seguridad psicológica y gestión del miedo [1]\n\n\
+	n\nLinks:\n------\n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.
+	php?id=1333522\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540539@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 9. Motivación\, resiliencia y cambio cierra
+DESCRIPTION:Test Tema 9. Motivación\, resiliencia y cambio [1]\n\n\n\nLinks
+	:\n------\n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1
+	333525\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:540544@campusvirtual.mexico.unir.net
+SUMMARY:Test Tema 10. Gestión de la complejidad cierra
+DESCRIPTION:Test Tema 10. Gestión de la complejidad [1]\n\n\n\nLinks:\n----
+	--\n[1] https://campusvirtual.mexico.unir.net/mod/quiz/view.php?id=1333528\
+	n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240417T014540Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T055900Z
+DTEND:20240610T055900Z
+CATEGORIES:29161-29162-29163-29164|30433|4829__4829
+END:VEVENT
+BEGIN:VEVENT
+UID:683371@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 1: Desarrollo en Vagrant y Puppet abre
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1893379/mod_quiz/
+	intro/madeo03_act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240523T230001Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240610T060000Z
+DTEND:20240610T060000Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683383@campusvirtual.mexico.unir.net
+SUMMARY:Actividad: Análisis de tráfico abre
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nEs 
+	necesario que descargues la actividad y trabajes con el documento en conjun
+	to con las preguntas del aula\, ya que en el aula solo encontrarás las preg
+	untas para responder.\n\nUna vez que tengas claras las respuestas\, respond
+	e a las preguntas en la plataforma\, no en el documento. Solo tendrás un in
+	tento. Una vez que la envíes\, se dará por cerrada. Tu puntuación y las res
+	puestas correctas se mostrarán cuando finalice el periodo de entrega de la 
+	tarea. \n\n\n\nLinks:\n------\n[1] https://campusvirtual.mexico.unir.net/pl
+	uginfile.php/1894192/mod_quiz/intro/madeo04_act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T120408Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240617T060000Z
+DTEND:20240617T060000Z
+CATEGORIES:27052-27056|25079|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683350@campusvirtual.mexico.unir.net
+SUMMARY:Actividad: Soluciones de almacenamiento en nube con Azure cierra
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1891957/mod_quiz/
+	intro/madeo01act2.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T174220Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240618T055900Z
+DTEND:20240618T055900Z
+CATEGORIES:27052-27056|25075|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683362@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 1: Programación en Bash cierra
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1892602/mod_quiz/
+	intro/madeo02_act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T150903Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240618T055900Z
+DTEND:20240618T055900Z
+CATEGORIES:27052-27056|25076|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683356@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 2: Instalación de MongoDB abre
+DESCRIPTION:Descarga la documentación adicional. [1]\n\nDescarga la activid
+	ad para trabajarla por tu cuenta. [2]\n\nUna vez que tengas claras las resp
+	uestas\, responde a las preguntas en la plataforma\, no en el documento. So
+	lo tendrás un intento. Una vez que la envíes\, se dará por cerrada. Tu punt
+	uación y las respuestas correctas se mostrarán cuando finalice el periodo d
+	e entrega de la tarea. \n\n\nLinks:\n------\n[1] https://campusvirtual.mexi
+	co.unir.net/pluginfile.php/1892605/mod_quiz/intro/act2_ScriptPrevioActivida
+	d.rtf?time=1692012826229\n[2] https://campusvirtual.mexico.unir.net/pluginf
+	ile.php/1892605/mod_quiz/intro/madeo02_act2.docx?time=1692012795386\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T150903Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240624T060000Z
+DTEND:20240624T060000Z
+CATEGORIES:27052-27056|25076|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683378@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 1: Desarrollo en Vagrant y Puppet cierra
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1893379/mod_quiz/
+	intro/madeo03_act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240523T230001Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240625T055900Z
+DTEND:20240625T055900Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683374@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 2: Empleo del Chef Workstation abre
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1893382/mod_quiz/
+	intro/madeo03_act2.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240523T230053Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240701T060000Z
+DTEND:20240701T060000Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683365@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 2: Instalación de MongoDB cierra
+DESCRIPTION:Descarga la documentación adicional. [1]\n\nDescarga la activid
+	ad para trabajarla por tu cuenta. [2]\n\nUna vez que tengas claras las resp
+	uestas\, responde a las preguntas en la plataforma\, no en el documento. So
+	lo tendrás un intento. Una vez que la envíes\, se dará por cerrada. Tu punt
+	uación y las respuestas correctas se mostrarán cuando finalice el periodo d
+	e entrega de la tarea. \n\n\nLinks:\n------\n[1] https://campusvirtual.mexi
+	co.unir.net/pluginfile.php/1892605/mod_quiz/intro/act2_ScriptPrevioActivida
+	d.rtf?time=1692012826229\n[2] https://campusvirtual.mexico.unir.net/pluginf
+	ile.php/1892605/mod_quiz/intro/madeo02_act2.docx?time=1692012795386\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T150903Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240709T055900Z
+DTEND:20240709T055900Z
+CATEGORIES:27052-27056|25076|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683387@campusvirtual.mexico.unir.net
+SUMMARY:Actividad: Análisis de tráfico cierra
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nEs 
+	necesario que descargues la actividad y trabajes con el documento en conjun
+	to con las preguntas del aula\, ya que en el aula solo encontrarás las preg
+	untas para responder.\n\nUna vez que tengas claras las respuestas\, respond
+	e a las preguntas en la plataforma\, no en el documento. Solo tendrás un in
+	tento. Una vez que la envíes\, se dará por cerrada. Tu puntuación y las res
+	puestas correctas se mostrarán cuando finalice el periodo de entrega de la 
+	tarea. \n\n\n\nLinks:\n------\n[1] https://campusvirtual.mexico.unir.net/pl
+	uginfile.php/1894192/mod_quiz/intro/madeo04_act1.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T120408Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240709T055900Z
+DTEND:20240709T055900Z
+CATEGORIES:27052-27056|25079|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683381@campusvirtual.mexico.unir.net
+SUMMARY:Actividad 2: Empleo del Chef Workstation cierra
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nUna
+	 vez que tengas claras las respuestas\, responde a las preguntas en la plat
+	aforma\, no en el documento. Solo tendrás un intento. Una vez que la envíes
+	\, se dará por cerrada. Tu puntuación y las respuestas correctas se mostrar
+	án cuando finalice el periodo de entrega de la tarea. \n\n\nLinks:\n------\
+	n[1] https://campusvirtual.mexico.unir.net/pluginfile.php/1893382/mod_quiz/
+	intro/madeo03_act2.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240523T230053Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240716T055900Z
+DTEND:20240716T055900Z
+CATEGORIES:27052-27056|25077|4243__4243
+END:VEVENT
+BEGIN:VEVENT
+UID:683386@campusvirtual.mexico.unir.net
+SUMMARY:Actividad: Arquitectura de red abre
+DESCRIPTION:Descarga la actividad para trabajarla por tu cuenta. [1]\n\nEs 
+	necesario que descargues la actividad y trabajes con el documento en conjun
+	to con las preguntas del aula\, ya que en el aula solo encontrarás las preg
+	untas para responder.\n\nUna vez que tengas claras las respuestas\, respond
+	e a las preguntas en la plataforma\, no en el documento. Solo tendrás un in
+	tento. Una vez que la envíes\, se dará por cerrada. Tu puntuación y las res
+	puestas correctas se mostrarán cuando finalice el periodo de entrega de la 
+	tarea. \n\n\n\nLinks:\n------\n[1] https://campusvirtual.mexico.unir.net/pl
+	uginfile.php/1894195/mod_quiz/intro/madeo04_act2.docx\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240419T120408Z
+DTSTAMP:20240524T013449Z
+DTSTART:20240722T060000Z
+DTEND:20240722T060000Z
+CATEGORIES:27052-27056|25079|4243__4243
+END:VEVENT
+END:VCALENDAR
