@@ -42,7 +42,7 @@
   \?) ayuda "La opcion no existe : $OPTARG"; exit 1;;
   esac
   done
-- ### Validación
+  - ### Validación
   Si el usuario o la contraseña no están
   definidos, imprime un mensaje de
   error y sale con un código de salida

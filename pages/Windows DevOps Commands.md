@@ -1,4 +1,11 @@
-- [[comandos cli window winget]]
+- [[presentacion de los permimos en linux]]
+	- La representación numérica de estos permisos es:
+	- Lectura = 4
+	- Escritura = 2
+	- Ejecución = 1
+		- Por lo tanto:
+		- El propietario necesita permisos de lectura (4), escritura (2) y ejecución (1), sumando un total de 7.
+		- Los miembros del grupo y todos los demás necesitan permisos de lectura (4) y ejecución (1), sumando un total de 5 cada uno.
 	-
 	-
 	-
