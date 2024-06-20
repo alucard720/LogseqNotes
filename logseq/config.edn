@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Administracion Sistemas en la Nube" "Computacion en la Nube y Cultura Devops"]
+ :favorites ["Herramientas de Despligue de Aplicaciones" "Administracion Sistemas en la Nube" "Computacion en la Nube y Cultura Devops"]
 
  ;; Set flashcards interval.
  ;; Expected value:

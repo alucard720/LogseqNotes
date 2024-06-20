@@ -1,0 +1,13 @@
+- [[1.1 Que es puppet]]
+- [[1.2 Puppet pt.2]]
+- [[1.3 Configuracion y Capa de abtraccion de recursos]]
+- [[1.4 Facter && Facts]]
+- [[1.5 instalacion y configuracion pupet]]
+- [[1.6 Recomendaciones de Puppet]]
+- [[2.1 Modulo de Puppet]]
+- [[2.2 Entornos de Pruebas con Vagrand]]
+- [[2.3 Demostracion de Vagrant]]
+-
+-
+-
+-
