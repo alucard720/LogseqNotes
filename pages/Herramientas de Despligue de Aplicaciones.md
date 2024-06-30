@@ -7,6 +7,8 @@
 - [[2.1 Modulo de Puppet]]
 - [[2.2 Entornos de Pruebas con Vagrand]]
 - [[2.3 Demostracion de Vagrant]]
+- [[2.4 Demostracion Apache Puppet]]
+-
 -
 -
 -
