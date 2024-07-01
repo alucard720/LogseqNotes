@@ -8,8 +8,6 @@
 - [[2.2 Entornos de Pruebas con Vagrand]]
 - [[2.3 Demostracion de Vagrant]]
 - [[2.4 Demostracion Apache Puppet]]
--
--
--
--
+- [[Framework Chef]]
+- [[Entorno Desarrollo Chef]]
 -
