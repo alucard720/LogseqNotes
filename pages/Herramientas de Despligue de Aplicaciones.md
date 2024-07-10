@@ -31,3 +31,9 @@
 - [[7.3 Demostracion Ansible Wordpress PT.2(codigo)]]
 - [[7.4 Demostracion Ansible Wordpress PT.3(codigo)]]
 - [[8.1 roles en Ansible]]
+- [[8.2 Roles tipos y uso]]
+- [[8.3 Modulos Ansible]]
+- [[8.4 Demostracion Roles ansible(Codigo)]]
+- [[8.5 Demostracion Ansible Roles Pt.2 (Codigo)]]
+-
+-
