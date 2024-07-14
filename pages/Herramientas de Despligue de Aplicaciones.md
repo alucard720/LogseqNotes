@@ -35,5 +35,6 @@
 - [[8.3 Modulos Ansible]]
 - [[8.4 Demostracion Roles ansible(Codigo)]]
 - [[8.5 Demostracion Ansible Roles Pt.2 (Codigo)]]
--
--
+- [[9.1 Parametrizacion del Rol]]
+- [[9.2 Ubicacion de Variables]]
+- [[9.3 Facts y Manipulacion de Variables]]
