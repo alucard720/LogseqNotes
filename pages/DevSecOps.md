@@ -3,5 +3,8 @@
 - [[1.3 Definicion de DevSecOps]]
 - [[1.4 Seguridad en DevOps ]]
 - [[1.5 Seguridad en DevOps PT.2]]
--
+- [[1.6 Seguridad en Devops PT.3]]
+- [[2.1 Modelos de Red]]
+- [[2.2 Intro a Capa Fisica]]
+- [[2.3 Intro a Capa Fisica PT.2]]
 -
