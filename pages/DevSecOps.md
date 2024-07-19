@@ -7,4 +7,8 @@
 - [[2.1 Modelos de Red]]
 - [[2.2 Intro a Capa Fisica]]
 - [[2.3 Intro a Capa Fisica PT.2]]
+- [[2.4 Capa de enlace de Datos PT.1]]
+- [[2.5 Capa de enlace de Datos PT.2]]
+- [[2.6 Deteccion y correcion de errores]]
+-
 -
