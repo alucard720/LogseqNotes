@@ -7,6 +7,9 @@
 - [[2.1 Modelos de Red]]
 - [[2.2 Intro a Capa Fisica]]
 - [[2.3 Intro a Capa Fisica PT.2]]
+- [[2.4 Capa de enlace de Datos PT.1]]
+- [[2.5 Capa de enlace de Datos PT.2]]
+- [[2.6 Deteccion y correcion de errores]]
 - [[3.1 Capa de Red]]
 - [[3.2 Intro Capa de Red Pt.1]]
 - [[3.3 Intro Capa de Red Pt.2]]
@@ -16,6 +19,5 @@
 - [[3.7 Intro Capa de Red Pt.6]]
 - [[3.8 Capa de Transporte PT1]]
 - [[3.9 Capa de Transporte PT2]]
--
 -
 -
