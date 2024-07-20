@@ -7,4 +7,15 @@
 - [[2.1 Modelos de Red]]
 - [[2.2 Intro a Capa Fisica]]
 - [[2.3 Intro a Capa Fisica PT.2]]
+- [[3.1 Capa de Red]]
+- [[3.2 Intro Capa de Red Pt.1]]
+- [[3.3 Intro Capa de Red Pt.2]]
+- [[3.4 Intro Capa de Red Pt.3]]
+- [[3.5 Intro Capa de Red Pt.4]]
+- [[3.6 Intro Capa de Red Pt.5 ]]
+- [[3.7 Intro Capa de Red Pt.6]]
+- [[3.8 Capa de Transporte PT1]]
+- [[3.9 Capa de Transporte PT2]]
+-
+-
 -
