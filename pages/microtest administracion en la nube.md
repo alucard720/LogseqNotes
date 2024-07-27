@@ -1,5 +1,5 @@
-- ![image.png](../assets/image_1721772644946_0.png)
-- ![image.png](../assets/image_1721772668728_0.png)
+- ![image.png](../assets/image_1721772644946_0.png){:height 523, :width 778}
+- ![image.png](../assets/image_1721772668728_0.png){:height 617, :width 778}
 - ![image.png](../assets/image_1721772724435_0.png)
 - ![image.png](../assets/image_1721772777902_0.png)
 - ![image.png](../assets/image_1721772803677_0.png)
