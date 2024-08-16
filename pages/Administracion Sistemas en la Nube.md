@@ -22,7 +22,6 @@
 - [[4.2 Instalacion de PHP-FPM]]
 - [[4.3 NODEJS]]
 - [[4.4 Automatizacion en AWS]]
-- [[Resumen Tema 4]]
 - [[5.1 Sistema de Archivos]]
 - [[5.2 Usuarios y Grupos]]
 - [[5.3 Procesos y Servicios]]
@@ -43,5 +42,6 @@
 - [[10.1 Desplieque de Aplicaciones en la Nube]]
 - [[10.2 SysPrep]]
 - [[10.3 Creacion de Imagen en AWS]]
-- [[10.4]]
+- [[10.4 Creacion de Imagen Windows Azure]]
+-
 -

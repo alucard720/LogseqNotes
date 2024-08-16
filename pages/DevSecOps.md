@@ -40,3 +40,7 @@
 - [[6.4 Caso practico firewall juniper]]
 - [[6.5 Caso Practico VPN en AWS]]
 - [[7.1 AWS -> IAM PT.1]]
+- [[7.2 AWS -> IAM PT.2]]
+- [[7.3 Otras Herramientas]]
+- [[7.4 Desmostracion aws]]
+-
