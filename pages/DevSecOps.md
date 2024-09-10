@@ -43,4 +43,11 @@
 - [[7.2 AWS -> IAM PT.2]]
 - [[7.3 Otras Herramientas]]
 - [[7.4 Desmostracion aws]]
+- [[8.1 Kubernetes]]
+- [[8.2 Objetos de Kubernetes]]
+- [[8.3 Control de Acceso Basado en Roles]]
+- [[9.1 Seguridad en un pipeline DevOps]]
+- [[9.2 Pruebas de Aplicacion]]
+- [[9.3 Proteccion de Infraestructura]]
+- [[9.4 Proteccion de las Herammienas CI/CD]]
 -
